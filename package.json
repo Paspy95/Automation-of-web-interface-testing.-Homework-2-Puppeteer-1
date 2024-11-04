@@ -7,7 +7,7 @@
     "test": "jest",
     "testOneBrowser": "jest --runInBand"
   },
-  "author": "",
+  "author": "Gudov Roman",
   "license": "ISC",
   "dependencies": {
     "jest": "^27.5.1",
